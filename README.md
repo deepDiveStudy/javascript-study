@@ -1,1 +1,1 @@
-# javascript-study
+# 모던자바스크립트 딥다이브 스터디
